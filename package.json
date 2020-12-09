@@ -1,0 +1,19 @@
+{
+  "name": "gabriel",
+  "version": "1.0.0",
+  "description": "Making baguettes...",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "node-fetch": "^2.6.1"
+  },
+  "scripts": {
+    "test": "!bread"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes sir"
+  },
+  "author": "ShadowAlpha666",
+  "license": "ISC"
+}
